@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "Question": "Qu'est-ce que Tor ?",
+      "Response": [
+        "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme.",
+        "Non en russe.",
+        "Un hacker malveillant.",
+        "Un hacker qui utilise ses compétences pour le bien.",
+        "Un type de virus qui chiffre des données et exige une rançon pour les déverrouiller."
+      ],
+      "Bonne": "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme."
+    },
+    {
+      "Question": "Que signifie Nyet en russe ?",
+      "Response": [
+        "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme.",
+        "Non en russe.",
+        "Un hacker malveillant.",
+        "Un hacker qui utilise ses compétences pour le bien.",
+        "Un type de virus qui chiffre des données et exige une rançon pour les déverrouiller."
+      ],
+      "Bonne": "Non en russe."
+    },
+    {
+      "Question": "Qu'est-ce qu'un White Hat dans le domaine de la sécurité informatique ?",
+      "Response": [
+        "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme.",
+        "Non en russe.",
+        "Un hacker malveillant.",
+        "Un hacker qui utilise ses compétences pour le bien.",
+        "Un type de virus qui chiffre des données et exige une rançon pour les déverrouiller."
+      ],
+      "Bonne": "Un hacker qui utilise ses compétences pour le bien."
+    },
+    {
+      "Question": "Qu'est-ce que Stuxnet ?",
+      "Response": [
+        "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme.",
+        "Non en russe.",
+        "Un hacker malveillant.",
+        "Un hacker qui utilise ses compétences pour le bien.",
+        "Un type de virus qui chiffre des données et exige une rançon pour les déverrouiller."
+      ],
+      "Bonne": "Un virus informatique qui a été utilisé pour attaquer des installations nucléaires en Iran."
+    },
+    {
+      "Question": "Qu'est-ce qu'un VPN ?",
+      "Response": [
+        "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme.",
+        "Non en russe.",
+        "Un hacker malveillant.",
+        "Un hacker qui utilise ses compétences pour le bien.",
+        "Un type de virus qui chiffre des données et exige une rançon pour les déverrouiller."
+      ],
+      "Bonne": "Un réseau privé virtuel qui permet de modifier son adresse IP et de crypter son trafic internet."
+    },
+    {
+      "Question": "Qu'est-ce que Wannacry ?",
+      "Response": [
+        "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme.",
+        "Non en russe.",
+        "Un hacker malveillant.",
+        "Un hacker qui utilise ses compétences pour le bien.",
+        "Un type de virus qui chiffre des données et exige une rançon pour les déverrouiller."
+      ],
+      "Bonne": "Un virus informatique qui a infecté des ordinateurs dans le monde entier en 2017."
+    },
+    {
+      "Question": "Quelle est la définition d'un Malware ?",
+      "Response": [
+        "Un système de classification.",
+        "Un logiciel malveillant conçu pour nuire à un ordinateur ou à un réseau.",
+        "Une menace persistante avancée, une cyberattaque ciblée et prolongée."
+      ],
+      "Bonne": "Un logiciel malveillant conçu pour nuire à un ordinateur ou à un réseau."
+    },
+    {
+      "Question": "Quelle est la fonction d'un SNORT ?",
+      "Response": [
+        "Un ralentissement ou une interruption du réseau.",
+        "Un système open source de détection et de prévention des intrusions.",
+        "La mémoire vive d'un ordinateur, qui stocke les données en cours d'utilisation."
+      ],
+      "Bonne": "Un système open source de détection et de prévention des intrusions."
+    },
+    {
+      "Question": "Qu'est-ce que l'ANSSI ?",
+      "Response": [
+        "Une équipe spécialisée dans la gestion des incidents de sécurité informatique.",
+        "L'Agence nationale de la sécurité des systèmes d'information (France).",
+        "Un fournisseur d'accès internet."
+      ],
+      "Bonne": "L'Agence nationale de la sécurité des systèmes d'information (France)."
+    },
+    {
+      "Question": "Quelle est la particularité d'un Botnet ?",
+      "Response": [
+        "Il s'agit d'un groupe d'ordinateurs infectés par un malware et contrôlés par un pirate informatique.",
+        "Il représente la mémoire vive d'un ordinateur.",
+        "Il est utilisé pour attaquer des installations nucléaires en Iran."
+      ],
+      "Bonne": "Il s'agit d'un groupe d'ordinateurs infectés par un malware et contrôlés par un pirate informatique."
+    },
+    {
+      "Question": "Que désigne l'IPv6 ?",
+      "Response": [
+        "La version 4 du protocole IP, qui utilise des adresses de 32 bits.",
+        "La version 6 du protocole IP, qui utilise des adresses de 128 bits.",
+        "Un système de stockage et de calcul à distance."
+      ],
+      "Bonne": "La version 6 du protocole IP, qui utilise des adresses de 128 bits."
+    },
+    {
+      "Question": "Quelle est la signification de CMS dans le domaine informatique ?",
+      "Response": [
+        "Un cours en ligne ouvert et massif.",
+        "Un système de gestion de contenu pour créer.",
+        "Un ensemble de règles qui permet aux ordinateurs de communiquer entre eux."
+      ],
+      "Bonne": "Un système de gestion de contenu pour créer."
+    },
+    {
+      "Question": "Qu'est-ce que Datacenters ?",
+      "Response": [
+        "Des centres de données qui hébergent des serveurs et des équipements réseau.",
+        "Une menace persistante avancée, une cyberattaque ciblée et prolongée.",
+        "L'espace de communication créé par l'interconnexion mondiale des ordinateurs."
+      ],
+      "Bonne": "Des centres de données qui hébergent des serveurs et des équipements réseau."
+    },
+    {
+      "Question": "Que représente l'acronyme RGPD ?",
+      "Response": [
+        "Un système de stockage et de calcul à distance.",
+        "Règlement général sur la protection des données (Union européenne).",
+        "La mémoire vive d'un ordinateur, qui stocke les données en cours d'utilisation."
+      ],
+      "Bonne": "Règlement général sur la protection des données (Union européenne)."
+    },
+    {
+      "Question": "Quelle est la fonction de l'ICANN ?",
+      "Response": [
+        "L'organisme qui gère les noms de domaine et les adresses IP.",
+        "Une équipe spécialisée dans la gestion des incidents de sécurité informatique.",
+        "Un réseau privé virtuel qui permet de modifier son adresse IP et de crypter son trafic internet."
+      ],
+      "Bonne": "L'organisme qui gère les noms de domaine et les adresses IP."
+    },
+    {
+      "Question": "Que désigne Cloud dans le domaine informatique ?",
+      "Response": [
+        "Une équipe spécialisée dans la gestion des incidents de sécurité informatique.",
+        "Un système de stockage et de calcul à distance.",
+        "Un composant matériel qui permet d'afficher des images sur un écran."
+      ],
+      "Bonne": "Un système de stockage et de calcul à distance."
+    },
+    {
+      "Question": "Quelle est la signification de Lag dans le contexte informatique ?",
+      "Response": [
+        "Un ralentissement ou une interruption du réseau.",
+        "Un système open source de détection et de prévention des intrusions.",
+        "Une menace persistante avancée, une cyberattaque ciblée et prolongée."
+      ],
+      "Bonne": "Un ralentissement ou une interruption du réseau."
+    },
+    {
+      "Question": "Que représente l'acronyme MOOC ?",
+      "Response": [
+        "Un cours en ligne ouvert et massif.",
+        "Une directive européenne sur la sécurité des réseaux et des systèmes d'information.",
+        "La loi pour la confiance dans l'économie numérique (France)."
+      ],
+      "Bonne": "Un cours en ligne ouvert et massif."
+    },
+    {
+      "Question": "Qu'est-ce qu'une APT dans le contexte de la sécurité informatique ?",
+      "Response": [
+        "Un système de stockage et de calcul à distance.",
+        "Une menace persistante avancée, une cyberattaque ciblée et prolongée.",
+        "Un groupe d'ordinateurs infectés par un malware et contrôlés par un pirate informatique."
+      ],
+      "Bonne": "Une menace persistante avancée, une cyberattaque ciblée et prolongée."
+    },
+    {
+      "Question": "Que désigne le terme Ver dans le domaine informatique ?",
+      "Response": [
+        "Un type de malware qui chiffre des données et exige une rançon pour les déverrouiller.",
+        "Un type de malware qui se propage d'un ordinateur à l'autre sans interaction humaine.",
+        "Un composant matériel qui permet d'afficher des images sur un écran."
+      ],
+      "Bonne": "Un type de malware qui se propage d'un ordinateur à l'autre sans interaction humaine."
+    },
+    {
+      "Question": "Qu'est-ce que CALID ?",
+      "Response": [
+        "La première loi française réprimant les actes de criminalité informatique et de piratage.",
+        "Le Centre d'Analyse en Lutte Informatique Défensive (France).",
+        "Un opérateur d'importance vitale (France)."
+      ],
+      "Bonne": "Le Centre d'Analyse en Lutte Informatique Défensive (France)."
+    },
+    {
+      "Question": "Quelle est la signification de DGA-MI ?",
+      "Response": [
+        "Une équipe spécialisée dans la gestion des incidents de sécurité informatique.",
+        "La Direction Générale de l'Armement Maîtrise de l'Information (France).",
+        "Un réseau parallèle à Internet qui permet de naviguer de manière anonyme."
+      ],
+      "Bonne": "La Direction Générale de l'Armement Maîtrise de l'Information (France)."
+    },
+    {
+      "Question": "Que représente OIV dans le contexte de la sécurité informatique ?",
+      "Response": [
+        "Une menace persistante avancée, une cyberattaque ciblée et prolongée.",
+        "Un opérateur d'importance vitale (France).",
+        "Un type de virus qui chiffre des données et exige une rançon pour les déverrouiller."
+      ],
+      "Bonne": "Un opérateur d'importance vitale (France)."
+    }
+  ]
+}
