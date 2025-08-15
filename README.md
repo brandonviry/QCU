@@ -85,7 +85,7 @@ QCU/
 
 ## 🌐 Démo en ligne
 
-[Voir la démo](https://demo-qcu.vercel.app/)
+[Voir la démo](https://qcu.vercel.app/)
 
 ## 📝 Contenu du questionnaire
 
