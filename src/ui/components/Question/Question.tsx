@@ -15,7 +15,7 @@ export default function Question({
   onClick: () => void;
 }) {
   const [choix, setChoix] = useState(false);
-  const [rp, setRp] = useState(null);
+  const [rp, setRp] = useState<string | null>(null);
   return (
     <form className="question" id={identifiant}>
       <h1>{question}</h1>
@@ -45,7 +45,7 @@ export default function Question({
                     }
                   }}
                 />
-                <label for={"reponse" + index.toString()}>{elt}</label>
+                <label htmlFor={"reponse" + index.toString()}>{elt}</label>
               </div>
             );
           })
